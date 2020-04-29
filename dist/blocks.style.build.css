@@ -1,0 +1,19 @@
+/**
+ * #.# Common SCSS
+ *
+ * Can include things like variables and mixins
+ * that are used across the project.
+*/
+.button-lists .button-col {
+  font-size: 0.788em;
+  font-weight: 500;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #fff;
+  background: #0aa3f3;
+  border-radius: 5px;
+  margin: 0 6px;
+  padding: 20px;
+  -webkit-transition: ease 0.2s;
+  -o-transition: ease 0.2s;
+  transition: ease 0.2s; }
